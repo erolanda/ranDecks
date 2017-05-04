@@ -1,5 +1,5 @@
 # ranDecks
-Show random decks for Clash Royale
+Show random decks for Clash Royale using the [Clash Royale API](https://github.com/martincarrera/clash-royale-api)
 
 Usage
 -----
